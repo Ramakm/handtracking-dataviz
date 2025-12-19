@@ -1,4 +1,7 @@
-# HandTracking DataViz
+# Neuracore
+
+<img width="833" height="497" alt="image" src="https://github.com/user-attachments/assets/dae9b634-1c24-489b-8e52-ffde3db7ac64" />
+
 
 ## Overview
 A Bento box dashboard that visualizes live hand tracking data in real time. The application captures hand movements via webcam, processes the coordinates, and renders interactive charts and 3D visualizations.
