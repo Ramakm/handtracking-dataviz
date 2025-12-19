@@ -41,6 +41,6 @@ Open `http://localhost:5173` in your browser. Grant webcam permissions when prom
 This project is licensed under the MIT License.
 
 ## Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-@Ramakm-181717?logo=github&style=flat)](https://github.com/Ramakm)  
+[![GitHub](https://img.shields.io/badge/GitHub-Ramakm-181717?logo=github&style=flat)](https://github.com/Ramakm)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramakrushna%20mohapatra-0A66C2?logo=linkedin&style=flat)](https://linkedin.com/in/ramakrushnamohapatra)  
 [![Twitter](https://img.shields.io/badge/Twitter-@techwith_ram-1DA1F2?logo=twitter&style=flat)](https://twitter.com/techwith_ram)
